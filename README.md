@@ -113,8 +113,9 @@ print(query_result)
 
 
 
-## Output:
-![image](https://github.com/user-attachments/assets/d7d9d98d-3566-4821-a769-36e5b2f883d7|width=100)
+## Output
+![image](https://github.com/user-attachments/assets/e24256d2-e2c5-4fad-9563-bf0f8eb6b9a8)
+
 ![image](https://github.com/user-attachments/assets/02e33578-bf4d-45b9-b675-2fe67e255f00)
 
 
